@@ -32,7 +32,7 @@ The fragment conformations will be indexed using shapedb with some color
 
 An (incomplete) list of dependencies:
 
-`apt install libglpk libann-dev coinor-*`
+`apt install libglpk-dev libann-dev coinor-*`
 
 RDKit is required.  However, I think a certain amount of effort needs to be
 spent verifying and fixing RDKit's reaction handling still.
